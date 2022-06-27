@@ -1,0 +1,37 @@
+CRITICAL - 2022-01-25 14:08:41 --> syntax error, unexpected identifier "navbar"
+#0 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(424): CodeIgniter\View\View->render('header', NULL, true)
+#2 C:\xampp\htdocs\plantonistas2.0\app\Views\adicionar.php(1): CodeIgniter\View\View->include('header')
+#3 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\xampp\htdocs\plantonistas2.0\system\Common.php(1089): CodeIgniter\View\View->render('adicionar', Array, true)
+#6 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantonistas.php(27): view('adicionar', Array)
+#7 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantonistas->adicionar()
+#8 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantonistas))
+#9 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-01-25 15:20:01 --> Undefined array key 1
+#0 C:\xampp\htdocs\plantonistas2.0\system\Router\Router.php(429): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 429)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('\xC3\x81rea-Admin')
+#2 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('\xC3\x81rea-Admin')
+#3 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-25 15:20:03 --> Undefined array key 1
+#0 C:\xampp\htdocs\plantonistas2.0\system\Router\Router.php(429): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 429)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('\xC3\x81rea-Admin')
+#2 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('\xC3\x81rea-Admin')
+#3 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-25 15:20:58 --> Undefined array key 1
+#0 C:\xampp\htdocs\plantonistas2.0\system\Router\Router.php(429): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 429)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('\xC3\x81rea-Admin')
+#2 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('\xC3\x81rea-Admin')
+#3 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

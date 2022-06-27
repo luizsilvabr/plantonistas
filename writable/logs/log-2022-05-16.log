@@ -1,0 +1,140 @@
+CRITICAL - 2022-05-16 05:56:38 --> Creating default object from empty value
+#0 /var/www/html/plantao/app/Controllers/Plantoes.php(87): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/plantao/system/CodeIgniter.php(825): App\Controllers\Plantoes->editar()
+#2 /var/www/html/plantao/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/plantao/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/plantao/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-16 05:56:42 --> Creating default object from empty value
+#0 /var/www/html/plantao/app/Controllers/Plantoes.php(87): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/plantao/system/CodeIgniter.php(825): App\Controllers\Plantoes->editar()
+#2 /var/www/html/plantao/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/plantao/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/plantao/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-16 05:56:56 --> Creating default object from empty value
+#0 /var/www/html/plantao/app/Controllers/Plantoes.php(87): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/plantao/system/CodeIgniter.php(825): App\Controllers\Plantoes->editar()
+#2 /var/www/html/plantao/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/plantao/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/plantao/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-16 05:58:07 --> Creating default object from empty value
+#0 /var/www/html/plantao/app/Controllers/Plantoes.php(87): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/plantao/system/CodeIgniter.php(825): App\Controllers\Plantoes->editar()
+#2 /var/www/html/plantao/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/plantao/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/plantao/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-16 05:58:35 --> Creating default object from empty value
+#0 /var/www/html/plantao/app/Controllers/Plantoes.php(87): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/plantao/system/CodeIgniter.php(825): App\Controllers\Plantoes->editar()
+#2 /var/www/html/plantao/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/plantao/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/plantao/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-16 05:59:21 --> Creating default object from empty value
+#0 /var/www/html/plantao/app/Controllers/Plantoes.php(87): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/plantao/system/CodeIgniter.php(825): App\Controllers\Plantoes->editar()
+#2 /var/www/html/plantao/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/plantao/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/plantao/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-16 06:00:19 --> Creating default object from empty value
+#0 /var/www/html/plantao/app/Controllers/Plantoes.php(87): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/plantao/system/CodeIgniter.php(825): App\Controllers\Plantoes->editar()
+#2 /var/www/html/plantao/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/plantao/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/plantao/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-16 06:00:23 --> Creating default object from empty value
+#0 /var/www/html/plantao/app/Controllers/Plantoes.php(87): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/plantao/system/CodeIgniter.php(825): App\Controllers\Plantoes->editar()
+#2 /var/www/html/plantao/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/plantao/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/plantao/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-16 06:01:06 --> Creating default object from empty value
+#0 /var/www/html/plantao/app/Controllers/Plantoes.php(87): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/plantao/system/CodeIgniter.php(825): App\Controllers\Plantoes->editar()
+#2 /var/www/html/plantao/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/plantao/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/plantao/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-16 06:02:39 --> Creating default object from empty value
+#0 /var/www/html/plantao/app/Controllers/Plantoes.php(87): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/plantao/system/CodeIgniter.php(825): App\Controllers\Plantoes->editar()
+#2 /var/www/html/plantao/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/plantao/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/plantao/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-16 06:04:14 --> Creating default object from empty value
+#0 /var/www/html/plantao/app/Controllers/Plantoes.php(87): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/plantao/system/CodeIgniter.php(825): App\Controllers\Plantoes->editar()
+#2 /var/www/html/plantao/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/plantao/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/plantao/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-16 06:04:53 --> Creating default object from empty value
+#0 /var/www/html/plantao/app/Controllers/Plantoes.php(87): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/plantao/system/CodeIgniter.php(825): App\Controllers\Plantoes->editar()
+#2 /var/www/html/plantao/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/plantao/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/plantao/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-16 06:04:56 --> Creating default object from empty value
+#0 /var/www/html/plantao/app/Controllers/Plantoes.php(87): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/plantao/system/CodeIgniter.php(825): App\Controllers\Plantoes->editar()
+#2 /var/www/html/plantao/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/plantao/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/plantao/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-16 06:04:57 --> Creating default object from empty value
+#0 /var/www/html/plantao/app/Controllers/Plantoes.php(87): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/plantao/system/CodeIgniter.php(825): App\Controllers\Plantoes->editar()
+#2 /var/www/html/plantao/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/plantao/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/plantao/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-16 06:04:59 --> Creating default object from empty value
+#0 /var/www/html/plantao/app/Controllers/Plantoes.php(87): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/plantao/system/CodeIgniter.php(825): App\Controllers\Plantoes->editar()
+#2 /var/www/html/plantao/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/plantao/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/plantao/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-16 06:05:00 --> Creating default object from empty value
+#0 /var/www/html/plantao/app/Controllers/Plantoes.php(87): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/plantao/system/CodeIgniter.php(825): App\Controllers\Plantoes->editar()
+#2 /var/www/html/plantao/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/plantao/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/plantao/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-16 06:05:04 --> Creating default object from empty value
+#0 /var/www/html/plantao/app/Controllers/Plantoes.php(87): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/plantao/system/CodeIgniter.php(825): App\Controllers\Plantoes->editar()
+#2 /var/www/html/plantao/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/plantao/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/plantao/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-16 06:05:32 --> Creating default object from empty value
+#0 /var/www/html/plantao/app/Controllers/Plantoes.php(87): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/plantao/system/CodeIgniter.php(825): App\Controllers\Plantoes->editar()
+#2 /var/www/html/plantao/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/plantao/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/plantao/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-16 06:08:48 --> Creating default object from empty value
+#0 /var/www/html/plantao/app/Controllers/Plantoes.php(87): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/plantao/system/CodeIgniter.php(825): App\Controllers\Plantoes->editar()
+#2 /var/www/html/plantao/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/plantao/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/plantao/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-16 07:40:09 --> Creating default object from empty value
+#0 /var/www/html/plantao/app/Controllers/Plantoes.php(87): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/plantao/system/CodeIgniter.php(825): App\Controllers\Plantoes->editar()
+#2 /var/www/html/plantao/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/plantao/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/plantao/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

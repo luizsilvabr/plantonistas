@@ -1,0 +1,113 @@
+CRITICAL - 2022-05-11 14:32:22 --> Use of undefined constant MYSQLI_STORE_RESULT - assumed 'MYSQLI_STORE_RESULT' (this will throw an Error in a future version of PHP)
+#0 /var/www/html/ferramentas/d/system/Database/Database.php(136): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/ferramentas/d/system/Database/Database.php(56): CodeIgniter\Database\Database->initDriver()
+#2 /var/www/html/ferramentas/d/system/Database/Config.php(78): CodeIgniter\Database\Database->load()
+#3 /var/www/html/ferramentas/d/system/Common.php(312): CodeIgniter\Database\Config::connect()
+#4 /var/www/html/ferramentas/d/app/Controllers/Listagem.php(21): db_connect()
+#5 /var/www/html/ferramentas/d/system/CodeIgniter.php(825): App\Controllers\Listagem->index()
+#6 /var/www/html/ferramentas/d/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#7 /var/www/html/ferramentas/d/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#8 /var/www/html/ferramentas/d/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-11 14:39:12 --> Use of undefined constant MYSQLI_STORE_RESULT - assumed 'MYSQLI_STORE_RESULT' (this will throw an Error in a future version of PHP)
+#0 /var/www/html/ferramentas/d/system/Database/Database.php(136): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/ferramentas/d/system/Database/Database.php(56): CodeIgniter\Database\Database->initDriver()
+#2 /var/www/html/ferramentas/d/system/Database/Config.php(78): CodeIgniter\Database\Database->load()
+#3 /var/www/html/ferramentas/d/system/Common.php(312): CodeIgniter\Database\Config::connect()
+#4 /var/www/html/ferramentas/d/app/Controllers/Listagem.php(21): db_connect()
+#5 /var/www/html/ferramentas/d/system/CodeIgniter.php(825): App\Controllers\Listagem->index()
+#6 /var/www/html/ferramentas/d/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#7 /var/www/html/ferramentas/d/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#8 /var/www/html/ferramentas/d/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-05-11 15:18:25 --> Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'plantao.plantoes.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+CRITICAL - 2022-05-11 15:18:25 --> Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'plantao.plantoes.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+#0 /var/www/html/plantao2/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /var/www/html/plantao2/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/html/plantao2/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/html/plantao2/app/Controllers/Plantoes.php(35): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/html/plantao2/system/CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 /var/www/html/plantao2/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/plantao2/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/plantao2/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-05-11 15:18:27 --> Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'plantao.plantoes.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+CRITICAL - 2022-05-11 15:18:27 --> Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'plantao.plantoes.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+#0 /var/www/html/plantao2/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /var/www/html/plantao2/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/html/plantao2/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/html/plantao2/app/Controllers/Plantoes.php(35): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/html/plantao2/system/CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 /var/www/html/plantao2/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/plantao2/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/plantao2/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-05-11 15:18:35 --> Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'plantao.plantoes.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+CRITICAL - 2022-05-11 15:18:35 --> Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'plantao.plantoes.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+#0 /var/www/html/plantao2/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /var/www/html/plantao2/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/html/plantao2/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/html/plantao2/app/Controllers/Plantoes.php(35): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/html/plantao2/system/CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 /var/www/html/plantao2/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/plantao2/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/plantao2/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-05-11 15:20:01 --> Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'plantao.plantoes.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+CRITICAL - 2022-05-11 15:20:01 --> Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'plantao.plantoes.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+#0 /var/www/html/plantao2/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /var/www/html/plantao2/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/html/plantao2/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/html/plantao2/app/Controllers/Plantoes.php(35): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/html/plantao2/system/CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 /var/www/html/plantao2/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/plantao2/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/plantao2/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-05-11 15:20:02 --> Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'plantao.plantoes.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+CRITICAL - 2022-05-11 15:20:02 --> Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'plantao.plantoes.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+#0 /var/www/html/plantao2/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /var/www/html/plantao2/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/html/plantao2/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/html/plantao2/app/Controllers/Plantoes.php(35): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/html/plantao2/system/CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 /var/www/html/plantao2/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/plantao2/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/plantao2/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-05-11 15:20:02 --> Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'plantao.plantoes.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+CRITICAL - 2022-05-11 15:20:02 --> Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'plantao.plantoes.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+#0 /var/www/html/plantao2/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /var/www/html/plantao2/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/html/plantao2/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/html/plantao2/app/Controllers/Plantoes.php(35): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/html/plantao2/system/CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 /var/www/html/plantao2/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/plantao2/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/plantao2/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-05-11 15:20:04 --> Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'plantao.plantoes.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+CRITICAL - 2022-05-11 15:20:04 --> Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'plantao.plantoes.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+#0 /var/www/html/plantao2/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /var/www/html/plantao2/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/html/plantao2/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/html/plantao2/app/Controllers/Plantoes.php(35): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/html/plantao2/system/CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 /var/www/html/plantao2/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/plantao2/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/plantao2/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-05-11 15:23:48 --> Cannot delete or update a parent row: a foreign key constraint fails (`plantao`.`cidades`, CONSTRAINT `cidades_ibfk_1` FOREIGN KEY (`regioes_id`) REFERENCES `regioes` (`id`))
+CRITICAL - 2022-05-11 15:23:48 --> Cannot delete or update a parent row: a foreign key constraint fails (`plantao`.`cidades`, CONSTRAINT `cidades_ibfk_1` FOREIGN KEY (`regioes_id`) REFERENCES `regioes` (`id`))
+#0 /var/www/html/plantao2/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /var/www/html/plantao2/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/html/plantao2/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/html/plantao2/system/Database/BaseBuilder.php(2225): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/html/plantao2/system/Model.php(359): CodeIgniter\Database\BaseBuilder->delete()
+#5 /var/www/html/plantao2/system/BaseModel.php(963): CodeIgniter\Model->doDelete()
+#6 /var/www/html/plantao2/app/Controllers/Regioes.php(72): CodeIgniter\BaseModel->delete()
+#7 /var/www/html/plantao2/system/CodeIgniter.php(825): App\Controllers\Regioes->excluir()
+#8 /var/www/html/plantao2/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#9 /var/www/html/plantao2/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#10 /var/www/html/plantao2/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}

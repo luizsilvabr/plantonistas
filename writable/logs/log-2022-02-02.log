@@ -1,0 +1,789 @@
+ERROR - 2022-02-02 07:20:32 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+CRITICAL - 2022-02-02 07:20:32 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(40): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 07:21:44 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+CRITICAL - 2022-02-02 07:21:44 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(40): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 07:22:05 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+CRITICAL - 2022-02-02 07:22:05 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(40): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 07:22:06 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+CRITICAL - 2022-02-02 07:22:06 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(40): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 07:22:38 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+CRITICAL - 2022-02-02 07:22:38 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(40): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 07:22:39 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+CRITICAL - 2022-02-02 07:22:39 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(40): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 07:22:39 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+CRITICAL - 2022-02-02 07:22:39 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(40): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 07:23:11 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+CRITICAL - 2022-02-02 07:23:11 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(40): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 07:23:12 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+CRITICAL - 2022-02-02 07:23:12 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(40): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 07:23:14 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+CRITICAL - 2022-02-02 07:23:14 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(40): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 07:23:14 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+CRITICAL - 2022-02-02 07:23:14 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(40): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 07:23:14 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+CRITICAL - 2022-02-02 07:23:14 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(40): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 07:23:15 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+CRITICAL - 2022-02-02 07:23:15 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(40): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 07:23:15 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+CRITICAL - 2022-02-02 07:23:15 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(40): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 07:23:15 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+CRITICAL - 2022-02-02 07:23:15 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(40): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 07:23:15 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+CRITICAL - 2022-02-02 07:23:15 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(40): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 07:23:15 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+CRITICAL - 2022-02-02 07:23:15 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(40): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 07:25:10 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM plantoes
+            JOIN plantonistas ON plantoes.plantonistas_id = pl...' at line 6
+CRITICAL - 2022-02-02 07:25:10 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM plantoes
+            JOIN plantonistas ON plantoes.plantonistas_id = pl...' at line 6
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(37): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 07:25:11 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM plantoes
+            JOIN plantonistas ON plantoes.plantonistas_id = pl...' at line 6
+CRITICAL - 2022-02-02 07:25:11 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM plantoes
+            JOIN plantonistas ON plantoes.plantonistas_id = pl...' at line 6
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(37): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 07:25:11 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM plantoes
+            JOIN plantonistas ON plantoes.plantonistas_id = pl...' at line 6
+CRITICAL - 2022-02-02 07:25:11 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM plantoes
+            JOIN plantonistas ON plantoes.plantonistas_id = pl...' at line 6
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(37): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 07:25:26 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM plantoes
+            JOIN plantonistas ON plantoes.plantonistas_id = pl...' at line 6
+CRITICAL - 2022-02-02 07:25:26 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM plantoes
+            JOIN plantonistas ON plantoes.plantonistas_id = pl...' at line 6
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(37): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 07:25:26 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM plantoes
+            JOIN plantonistas ON plantoes.plantonistas_id = pl...' at line 6
+CRITICAL - 2022-02-02 07:25:26 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM plantoes
+            JOIN plantonistas ON plantoes.plantonistas_id = pl...' at line 6
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(37): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 07:25:27 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM plantoes
+            JOIN plantonistas ON plantoes.plantonistas_id = pl...' at line 6
+CRITICAL - 2022-02-02 07:25:27 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM plantoes
+            JOIN plantonistas ON plantoes.plantonistas_id = pl...' at line 6
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(37): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 07:25:27 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM plantoes
+            JOIN plantonistas ON plantoes.plantonistas_id = pl...' at line 6
+CRITICAL - 2022-02-02 07:25:27 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM plantoes
+            JOIN plantonistas ON plantoes.plantonistas_id = pl...' at line 6
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(37): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-02 08:08:27 --> Undefined variable $selectCidades
+#0 C:\xampp\htdocs\plantonistas2.0\app\Views\adicionarRegiao.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 18)
+#1 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\plantonistas2.0\system\Common.php(1089): CodeIgniter\View\View->render('adicionarRegiao', Array, true)
+#4 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Regioes.php(54): view('adicionarRegiao', Array)
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Regioes->adicionar()
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Regioes))
+#7 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-02 08:44:00 --> Undefined variable $selectCidades
+#0 C:\xampp\htdocs\plantonistas2.0\app\Views\adicionarRegiao.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 18)
+#1 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\plantonistas2.0\system\Common.php(1089): CodeIgniter\View\View->render('adicionarRegiao', Array, true)
+#4 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Regioes.php(54): view('adicionarRegiao', Array)
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Regioes->adicionar()
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Regioes))
+#7 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-02 08:45:40 --> Undefined variable $selectRegioes
+#0 C:\xampp\htdocs\plantonistas2.0\app\Views\adicionarCidade.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 22)
+#1 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\plantonistas2.0\system\Common.php(1089): CodeIgniter\View\View->render('adicionarCidade', Array, true)
+#4 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Cidades.php(55): view('adicionarCidade', Array)
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Cidades->adicionar()
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cidades))
+#7 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-02-02 08:49:57 --> Cannot add or update a child row: a foreign key constraint fails (`plantao`.`cidades`, CONSTRAINT `cidades_ibfk_1` FOREIGN KEY (`regioes_id`) REFERENCES `regioes` (`id`))
+CRITICAL - 2022-02-02 08:49:57 --> Cannot add or update a child row: a foreign key constraint fails (`plantao`.`cidades`, CONSTRAINT `cidades_ibfk_1` FOREIGN KEY (`regioes_id`) REFERENCES `regioes` (`id`))
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `ci...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ci...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ci...')
+#3 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ci...', Array, false)
+#4 C:\xampp\htdocs\plantonistas2.0\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\plantonistas2.0\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\plantonistas2.0\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Cidades.php(48): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Cidades->adicionar()
+#9 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cidades))
+#10 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-02-02 08:53:44 --> Undefined property: stdClass::$cidadeSigla
+#0 C:\xampp\htdocs\plantonistas2.0\app\Views\plantoes.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 26)
+#1 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\plantonistas2.0\system\Common.php(1089): CodeIgniter\View\View->render('plantoes', Array, true)
+#4 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(39): view('plantoes', Array)
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#7 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-02-02 08:54:08 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+CRITICAL - 2022-02-02 08:54:08 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(40): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 08:54:18 --> Unknown column 'cidades.nome' in 'field list'
+CRITICAL - 2022-02-02 08:54:18 --> Unknown column 'cidades.nome' in 'field list'
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(39): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 08:55:02 --> Unknown column 'cidades.sigla' in 'field list'
+CRITICAL - 2022-02-02 08:55:02 --> Unknown column 'cidades.sigla' in 'field list'
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(38): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 08:56:31 --> Unknown column 'cidades.sigla' in 'field list'
+CRITICAL - 2022-02-02 08:56:31 --> Unknown column 'cidades.sigla' in 'field list'
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(38): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 08:57:41 --> Unknown column 'cidades.sigla' in 'field list'
+CRITICAL - 2022-02-02 08:57:41 --> Unknown column 'cidades.sigla' in 'field list'
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(38): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 08:57:49 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+CRITICAL - 2022-02-02 08:57:49 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(39): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 09:02:44 --> Cannot add or update a child row: a foreign key constraint fails (`plantao`.`plantoes`, CONSTRAINT `plantoes_ibfk_4` FOREIGN KEY (`cidades_id`) REFERENCES `cidades` (`id`))
+CRITICAL - 2022-02-02 09:02:44 --> Cannot add or update a child row: a foreign key constraint fails (`plantao`.`plantoes`, CONSTRAINT `plantoes_ibfk_4` FOREIGN KEY (`cidades_id`) REFERENCES `cidades` (`id`))
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `pl...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pl...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pl...')
+#3 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pl...', Array, false)
+#4 C:\xampp\htdocs\plantonistas2.0\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\plantonistas2.0\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\plantonistas2.0\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(57): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->adicionar()
+#9 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#10 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2022-02-02 09:03:06 --> Cannot add or update a child row: a foreign key constraint fails (`plantao`.`plantoes`, CONSTRAINT `plantoes_ibfk_4` FOREIGN KEY (`cidades_id`) REFERENCES `cidades` (`id`))
+CRITICAL - 2022-02-02 09:03:06 --> Cannot add or update a child row: a foreign key constraint fails (`plantao`.`plantoes`, CONSTRAINT `plantoes_ibfk_4` FOREIGN KEY (`cidades_id`) REFERENCES `cidades` (`id`))
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `pl...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pl...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pl...')
+#3 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pl...', Array, false)
+#4 C:\xampp\htdocs\plantonistas2.0\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\plantonistas2.0\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\plantonistas2.0\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(57): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->adicionar()
+#9 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#10 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2022-02-02 09:17:29 --> Cannot add or update a child row: a foreign key constraint fails (`plantao`.`plantoes`, CONSTRAINT `plantoes_ibfk_4` FOREIGN KEY (`cidades_id`) REFERENCES `cidades` (`id`))
+CRITICAL - 2022-02-02 09:17:29 --> Cannot add or update a child row: a foreign key constraint fails (`plantao`.`plantoes`, CONSTRAINT `plantoes_ibfk_4` FOREIGN KEY (`cidades_id`) REFERENCES `cidades` (`id`))
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `pl...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pl...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pl...')
+#3 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pl...', Array, false)
+#4 C:\xampp\htdocs\plantonistas2.0\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\plantonistas2.0\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\plantonistas2.0\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(57): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->adicionar()
+#9 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#10 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2022-02-02 09:17:35 --> Cannot add or update a child row: a foreign key constraint fails (`plantao`.`plantoes`, CONSTRAINT `plantoes_ibfk_4` FOREIGN KEY (`cidades_id`) REFERENCES `cidades` (`id`))
+CRITICAL - 2022-02-02 09:17:35 --> Cannot add or update a child row: a foreign key constraint fails (`plantao`.`plantoes`, CONSTRAINT `plantoes_ibfk_4` FOREIGN KEY (`cidades_id`) REFERENCES `cidades` (`id`))
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `pl...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pl...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pl...')
+#3 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pl...', Array, false)
+#4 C:\xampp\htdocs\plantonistas2.0\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\plantonistas2.0\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\plantonistas2.0\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(57): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->adicionar()
+#9 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#10 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2022-02-02 10:10:26 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+CRITICAL - 2022-02-02 10:10:26 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(39): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 10:10:57 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+CRITICAL - 2022-02-02 10:10:57 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(39): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 10:10:58 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+CRITICAL - 2022-02-02 10:10:58 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(39): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 12:30:07 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+CRITICAL - 2022-02-02 12:30:07 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Geral.php(24): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Geral->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Geral))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 12:33:53 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+CRITICAL - 2022-02-02 12:33:53 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(39): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 12:34:07 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM plantoes
+            JOIN plantonistas ON plantoes.plantonistas_id = pl...' at line 6
+CRITICAL - 2022-02-02 12:34:07 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM plantoes
+            JOIN plantonistas ON plantoes.plantonistas_id = pl...' at line 6
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(37): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 12:34:08 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM plantoes
+            JOIN plantonistas ON plantoes.plantonistas_id = pl...' at line 6
+CRITICAL - 2022-02-02 12:34:08 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM plantoes
+            JOIN plantonistas ON plantoes.plantonistas_id = pl...' at line 6
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(37): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 12:34:08 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM plantoes
+            JOIN plantonistas ON plantoes.plantonistas_id = pl...' at line 6
+CRITICAL - 2022-02-02 12:34:08 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM plantoes
+            JOIN plantonistas ON plantoes.plantonistas_id = pl...' at line 6
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(37): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 12:34:21 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM plantoes
+            JOIN plantonistas ON plantoes.plantonistas_id = pl...' at line 6
+CRITICAL - 2022-02-02 12:34:21 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM plantoes
+            JOIN plantonistas ON plantoes.plantonistas_id = pl...' at line 6
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(37): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 12:34:22 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM plantoes
+            JOIN plantonistas ON plantoes.plantonistas_id = pl...' at line 6
+CRITICAL - 2022-02-02 12:34:22 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM plantoes
+            JOIN plantonistas ON plantoes.plantonistas_id = pl...' at line 6
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(37): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 12:34:22 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM plantoes
+            JOIN plantonistas ON plantoes.plantonistas_id = pl...' at line 6
+CRITICAL - 2022-02-02 12:34:22 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM plantoes
+            JOIN plantonistas ON plantoes.plantonistas_id = pl...' at line 6
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(37): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 12:34:22 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM plantoes
+            JOIN plantonistas ON plantoes.plantonistas_id = pl...' at line 6
+CRITICAL - 2022-02-02 12:34:22 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM plantoes
+            JOIN plantonistas ON plantoes.plantonistas_id = pl...' at line 6
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(37): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 12:34:22 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM plantoes
+            JOIN plantonistas ON plantoes.plantonistas_id = pl...' at line 6
+CRITICAL - 2022-02-02 12:34:22 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM plantoes
+            JOIN plantonistas ON plantoes.plantonistas_id = pl...' at line 6
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(37): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 12:34:22 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM plantoes
+            JOIN plantonistas ON plantoes.plantonistas_id = pl...' at line 6
+CRITICAL - 2022-02-02 12:34:22 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM plantoes
+            JOIN plantonistas ON plantoes.plantonistas_id = pl...' at line 6
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(37): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-02 12:34:22 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM plantoes
+            JOIN plantonistas ON plantoes.plantonistas_id = pl...' at line 6
+CRITICAL - 2022-02-02 12:34:22 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM plantoes
+            JOIN plantonistas ON plantoes.plantonistas_id = pl...' at line 6
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(37): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-02 12:34:30 --> Undefined property: stdClass::$cidadeSigla
+#0 C:\xampp\htdocs\plantonistas2.0\app\Views\plantoes.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 26)
+#1 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\plantonistas2.0\system\Common.php(1089): CodeIgniter\View\View->render('plantoes', Array, true)
+#4 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(39): view('plantoes', Array)
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#7 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-02 14:02:34 --> Undefined property: stdClass::$cidadeSigla
+#0 C:\xampp\htdocs\plantonistas2.0\app\Views\plantoes.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 26)
+#1 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\plantonistas2.0\system\Common.php(1089): CodeIgniter\View\View->render('plantoes', Array, true)
+#4 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(42): view('plantoes', Array)
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#7 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-02 14:02:50 --> Undefined property: stdClass::$sigla
+#0 C:\xampp\htdocs\plantonistas2.0\app\Views\plantoes.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 26)
+#1 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\plantonistas2.0\system\Common.php(1089): CodeIgniter\View\View->render('plantoes', Array, true)
+#4 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(42): view('plantoes', Array)
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#7 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-02 14:02:51 --> Undefined property: stdClass::$sigla
+#0 C:\xampp\htdocs\plantonistas2.0\app\Views\plantoes.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 26)
+#1 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\plantonistas2.0\system\Common.php(1089): CodeIgniter\View\View->render('plantoes', Array, true)
+#4 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(42): view('plantoes', Array)
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->index()
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#7 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-02 14:08:37 --> Undefined variable $errors
+#0 C:\xampp\htdocs\plantonistas2.0\app\Views\adicionarPlantao.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 37)
+#1 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\plantonistas2.0\system\Common.php(1089): CodeIgniter\View\View->render('adicionarPlanta...', Array, true)
+#4 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(73): view('adicionarPlanta...', Array)
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->adicionar()
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#7 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-02 14:11:47 --> Undefined variable $errors
+#0 C:\xampp\htdocs\plantonistas2.0\app\Views\adicionarPlantao.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 37)
+#1 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\plantonistas2.0\system\Common.php(1089): CodeIgniter\View\View->render('adicionarPlanta...', Array, true)
+#4 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Plantoes.php(73): view('adicionarPlanta...', Array)
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Plantoes->adicionar()
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Plantoes))
+#7 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-02-02 14:28:11 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+CRITICAL - 2022-02-02 14:28:11 --> Unknown column 'plantoes.cidades_id' in 'on clause'
+#0 C:\xampp\htdocs\plantonistas2.0\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT plantoes...', 0)
+#1 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT plantoes...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT plantoes...')
+#3 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Geral.php(24): CodeIgniter\Database\BaseConnection->query('SELECT plantoes...')
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Geral->index()
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Geral))
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-02 14:28:31 --> Undefined property: stdClass::$cidadeSigla
+#0 C:\xampp\htdocs\plantonistas2.0\app\Views\home.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\plantonistas2.0\system\Common.php(1089): CodeIgniter\View\View->render('home', Array, true)
+#4 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Geral.php(25): view('home', Array)
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Geral->index()
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Geral))
+#7 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-02 14:28:32 --> Undefined property: stdClass::$cidadeSigla
+#0 C:\xampp\htdocs\plantonistas2.0\app\Views\home.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\plantonistas2.0\system\Common.php(1089): CodeIgniter\View\View->render('home', Array, true)
+#4 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Geral.php(25): view('home', Array)
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Geral->index()
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Geral))
+#7 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-02 14:28:33 --> Undefined property: stdClass::$cidadeSigla
+#0 C:\xampp\htdocs\plantonistas2.0\app\Views\home.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\plantonistas2.0\system\Common.php(1089): CodeIgniter\View\View->render('home', Array, true)
+#4 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Geral.php(25): view('home', Array)
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Geral->index()
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Geral))
+#7 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-02 14:28:33 --> Undefined property: stdClass::$cidadeSigla
+#0 C:\xampp\htdocs\plantonistas2.0\app\Views\home.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\plantonistas2.0\system\Common.php(1089): CodeIgniter\View\View->render('home', Array, true)
+#4 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Geral.php(25): view('home', Array)
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Geral->index()
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Geral))
+#7 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-02 14:28:33 --> Undefined property: stdClass::$cidadeSigla
+#0 C:\xampp\htdocs\plantonistas2.0\app\Views\home.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\plantonistas2.0\system\Common.php(1089): CodeIgniter\View\View->render('home', Array, true)
+#4 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Geral.php(25): view('home', Array)
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Geral->index()
+#6 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Geral))
+#7 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-02 14:49:42 --> Unclosed '{' on line 31
+#0 C:\xampp\htdocs\plantonistas2.0\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\plantonistas2.0\system\Common.php(1089): CodeIgniter\View\View->render('cidades', Array, true)
+#2 C:\xampp\htdocs\plantonistas2.0\app\Controllers\Cidades.php(30): view('cidades', Array)
+#3 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(825): App\Controllers\Cidades->index()
+#4 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cidades))
+#5 C:\xampp\htdocs\plantonistas2.0\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\plantonistas2.0\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

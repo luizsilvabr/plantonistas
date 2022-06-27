@@ -1,0 +1,90 @@
+<?php 
+   $olt = $_GET['olt'];
+   $slot = $_GET['slot'];
+   $pon = $_GET['pon'];
+   $onu = $_GET['onu'];
+   
+   //SE FIBERHOME
+      if(($olt == '10.142.11.1' or $olt == '10.103.12.6' or $olt == '10.103.12.2' or $olt == '10.121.60.1' or $olt == '10.238.61.1' or $olt == '10.237.61.1') ){
+	   $remoteEnable = 'set onu_local_manage_config slot '.$slot.' pon '.$pon.' onu '.$onu.' config_enable_switch enable console_switch enable telnet_switch enable web_switch enable web_port 8183 web_ani_switch enable tel_ani_switch enable';
+	   $remoteDisable = 'set onu_local_manage_config slot '.$slot.' pon '.$pon.' onu '.$onu.' config_enable_switch disable console_switch enable telnet_switch disable web_switch enable web_port 8183 web_ani_switch enable tel_ani_switch disable';
+	   $accessFolder = 'cd onu';
+	   $getIP = 'show wan_info slot '.$slot.' pon '.$pon.' onu '.$onu;
+   }else{
+	//SE VERSAO ANTERIOR OLT
+		$remoteEnable = 'set onu_local_manage_config slot '.$slot.' link '.$pon.' onu '.$onu.' config_enable_switch enable console_switch enable telnet_switch enable web_switch enable web_port 8183 web_ani_switch enable tel_ani_switch enable';
+		$remoteDisable = 'set onu_local_manage_config slot '.$slot.' link '.$pon.' onu '.$onu.' config_enable_switch disable console_switch enable telnet_switch disable web_switch enable web_port 8183 web_ani_switch enable tel_ani_switch disable';
+		$accessFolder = 'cd gpononu';
+	   $getIP = 'show wifi_info slot '.$slot.' link '.$pon.' onu '.$onu;		
+   }
+   
+   $downgradeCommand = 'download ftp system 189.1.144.230 ftp lpnet g2601_02B7G_BRAZIL_20170808140038.bin';
+   
+   //Habilitando acesso remoto
+   require_once "includes/PHPTelnet.php"; 
+   $telnet = new PHPTelnet(); 
+   $result = $telnet->Connect($olt,'GEPON','GEPON'); 
+   $telnet->DoCommand('EN', $result); 
+   $telnet->DoCommand('GEPON', $result);
+   $telnet->DoCommand($accessFolder, $result); 
+   $telnet->DoCommand($remoteEnable, $result);
+   $telnet->DoCommand($getIP, $result);
+   $telnet->Disconnect();
+
+   if (preg_match('/\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}/', $result, $ip_match) == true){ 
+	$ip=$ip_match[0];
+	
+	//Log
+	$ip_remoto = $_SERVER['REMOTE_ADDR'];
+	$data_hora = date('d/m/Y - H:i:s');
+	if (!$file = fopen("log.txt",'a+')) {
+		echo "Não foi possível abrir o arquivo (log.txt";
+	}else{
+	fwrite($file,$data_hora. "\n");
+	fwrite($file,"IP: ".$ip_remoto. "\n");
+	fwrite($file,"OLT: ".$olt." | SLOT: ".$slot." | PON: ".$pon. " | ONU: ".$onu."\n\n\n");
+	fclose($file);
+	}
+		   
+	//Efetuando downgrade
+	sleep(5);
+	$telnet = new PHPTelnet();
+	$result = $telnet->Connect($ip,'gpon','gpon'); 
+	$telnet->DoCommand('en', $result); 
+	$telnet->DoCommand('gpon', $result);
+	$telnet->DoCommand('\n', $result);
+	$telnet->DoCommand($downgradeCommand, $result);
+	$telnet->DoCommand('reboot', $result);
+	$telnet->Disconnect();
+
+	if (strpos($result, 'successfully') !== false) {
+   echo '<h4>Procedimento de Downgrade efetuado!</h4>';
+   }else{
+	echo '<h4>
+			<p>Ocorreu um erro na tentativa de efetuar o downgrade:<br>
+			<b>Slot:</b> '.$slot.' <br> <b>Pon:</b> '.$pon.' <br> <b>Onu:</b> '.$onu.'</p><br>
+			<p>Verifique se os dados da ONU e modelo da ONU informados estão corretos. </p><br>
+			</h4>';
+   }
+   }else{
+	   echo '<h4>
+			<p>Ocorreu um erro na tentativa de efetuar o downgrade:<br>
+			<b>Slot:</b> '.$slot.' <br> <b>Pon:</b> '.$pon.' <br> <b>Onu:</b> '.$onu.'</p><br>
+			<p>Não foi possível identificar o IP da ONU para efetuar o downgrade. </p><br>
+			</h4>';
+	   }
+   
+      
+    //Desabilitando acesso a porta 23
+	//INICIO DESABILITAR ACESSO REMOTO
+   require_once "includes/PHPTelnet.php"; 
+   $telnet = new PHPTelnet(); 
+   $result = $telnet->Connect($olt,'GEPON','GEPON'); 
+   $telnet->DoCommand('EN', $result); 
+   $telnet->DoCommand('GEPON', $result);
+   $telnet->DoCommand($accessFolder, $result); 
+   sleep(5);
+   $telnet->DoCommand($remoteDisable, $result);
+   sleep(2);
+   $telnet->Disconnect();
+?>
